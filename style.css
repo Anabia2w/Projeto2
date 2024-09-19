@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;  
+}
+
+header{
+        background-color: rgb(34, 69, 182);
+        padding: 35px;
+        color: white;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium';
+        font-size: 30px;
+    }
+
+body{
+    background-color: rgb(78, 127, 219);
+}
+main{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium';
+    margin: 30px auto;
+    padding: 30px;
+}
+
+img{
+    display: flex;
+    height: 300px;
+     width: 300px;
+     margin: 30px;
+}
+
+div{
+     display: flex;
+     align-items: center;
+     gap: 20px;
+}
+
